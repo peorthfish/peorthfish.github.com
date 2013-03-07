@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://peorthfish.github.com/sitemap.xml 
