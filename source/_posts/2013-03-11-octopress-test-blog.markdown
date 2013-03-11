@@ -14,10 +14,15 @@ categories: octopress
 #####五级标题#####
 ######六级标题######
 ~~没有七级标题~~
-    ~~balabala~~ //这是删除线
-    **balabala** //这是加粗
-    *balabala*	//这是斜体
-    `balabala` //这是行内代码
+
+~~这是删除线~~
+
+**这是加粗**
+
+*这是斜体*
+
+otherotherother`这是行内代码`otherotherother
+
 - - -
 我是分界线～～～下面是插件测试
 - - -
