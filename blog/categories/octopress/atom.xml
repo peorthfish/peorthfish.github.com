@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[鱼黍的小屋]]></title>
-  <link href="http://peorthfish.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: octopress | 鱼黍的小屋]]></title>
+  <link href="http://peorthfish.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://peorthfish.github.com/"/>
   <updated>2013-03-12T00:20:48+08:00</updated>
   <id>http://peorthfish.github.com/</id>
@@ -49,7 +49,7 @@
 
 <hr />
 
-<p>太晚了， 所以to be continue&#8230;</p>
+<p>太晚了， 所以to be continue...</p>
 ]]></content>
   </entry>
   
